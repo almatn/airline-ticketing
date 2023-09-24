@@ -1,4 +1,3 @@
-```markdown
 # Airline Ticket Management System
 
 This project is an airline ticket management system, designed to manage users, buy tickets, cancel tickets, add flights, display all flights of a user, and list flight details. The program uses Java Swing for the GUI and serialization to store objects and read them back.
